@@ -10,7 +10,7 @@ I created this repository for develop my skills with data science, and sharing e
 
 <!-- toc -->
   * 1. Data Project
-  		* [Workflow]((https://github.com/daniellj/DataScience/blob/master/DataProjectWorkflow/DataProjectWorkflow.md)
+		* [Workflow](https://github.com/daniellj/DataScience/blob/master/DataProjectWorkflow/DataProjectWorkflow.md)
   * 2. Statistics
 	    * [Basic Statistics Topics](https://github.com/daniellj/DataScience/blob/master/Statistics/BasicStatisticsTopics.md)
 	    * [Statistics Topics for Data Science](https://github.com/daniellj/DataScience/blob/master/Statistics/StatisticsTopicsforDataScience.md)
