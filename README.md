@@ -9,21 +9,21 @@ I created this repository for develop my skills with data science, and sharing e
 ## Topics
 
 <!-- toc -->
-  * 1 Statistics
+  * 1_Statistics
 	    * [Basic Statistics Topics](https://github.com/daniellj/DataScience/blob/master/Statistics/BasicStatisticsTopics.md)
 	    * [Statistics Topics for Data Science](https://github.com/daniellj/DataScience/blob/master/Statistics/StatisticsTopicsforDataScience.md)
-  * 2 Data Manipulation
+  * 2_Data Manipulation
 	    * [Python](https://github.com/daniellj/DataScience/tree/master/DataManipulation/Python)
-  * 3 Data Organization And Data Visualization
+  * 3_Data Organization And Data Visualization
 	    * [Python](https://github.com/daniellj/DataScience/tree/master/DataOrganizationAndDataVisualization/Python)
-  * 4 Machine Learning Models
+  * 4_Machine Learning Models
 	    * Python
 	      * [SupervisedLearning](https://github.com/daniellj/DataScience/tree/master/MachineLearning/Python/SupervisedLearning)
 	      * [UnsupervisedLearning](https://github.com/daniellj/DataScience/tree/master/MachineLearning/Python/UnsupervisedLearning)
           * [Reinforcement Learning](https://github.com/daniellj/DataScience/tree/master/MachineLearning/Python/ReinforcementLearning)
-  * 5 Data Science Terms Dictionary
+  * 5_Data Science Terms Dictionary
 	    * [Dict. (PT-BR)](https://github.com/leportella/datascience-pizza/blob/master/dicionario.md)
-  * 6 Podcasts
+  * 6_Podcasts
 	    * [datascience.pizza (PT-BR)](http://podcast.datascience.pizza/)
 	    * [Data Skeptic (US)](https://dataskeptic.com/podcast)
 
