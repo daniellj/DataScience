@@ -10,22 +10,22 @@ I created this repository for develop my skills with data science, and sharing e
 
 <!-- toc -->
   * 1. Statistics
-	    - [Basic Statistics Topics](https://github.com/daniellj/DataScience/blob/master/Statistics/BasicStatisticsTopics.md)
-	    - [Statistics Topics for Data Science](https://github.com/daniellj/DataScience/blob/master/Statistics/StatisticsTopicsforDataScience.md)
+	    * [Basic Statistics Topics](https://github.com/daniellj/DataScience/blob/master/Statistics/BasicStatisticsTopics.md)
+	    * [Statistics Topics for Data Science](https://github.com/daniellj/DataScience/blob/master/Statistics/StatisticsTopicsforDataScience.md)
   * 2. Data Manipulation
-	    - [Python](https://github.com/daniellj/DataScience/tree/master/DataManipulation/Python)
+	    * [Python](https://github.com/daniellj/DataScience/tree/master/DataManipulation/Python)
   * 3. Data Organization And Data Visualization
-	    - [Python](https://github.com/daniellj/DataScience/tree/master/DataOrganizationAndDataVisualization/Python)
+	    * [Python](https://github.com/daniellj/DataScience/tree/master/DataOrganizationAndDataVisualization/Python)
   * 4. Machine Learning Models
-	    - Python
-	      -- [SupervisedLearning](https://github.com/daniellj/DataScience/tree/master/MachineLearning/Python/SupervisedLearning)
-	      -- [UnsupervisedLearning](https://github.com/daniellj/DataScience/tree/master/MachineLearning/Python/UnsupervisedLearning)
-        - [Reinforcement Learning](https://github.com/daniellj/DataScience/tree/master/MachineLearning/Python/ReinforcementLearning)
+	    * Python
+	      * [SupervisedLearning](https://github.com/daniellj/DataScience/tree/master/MachineLearning/Python/SupervisedLearning)
+	      * [UnsupervisedLearning](https://github.com/daniellj/DataScience/tree/master/MachineLearning/Python/UnsupervisedLearning)
+          * [Reinforcement Learning](https://github.com/daniellj/DataScience/tree/master/MachineLearning/Python/ReinforcementLearning)
   * 5. Data Science Terms Dictionary
-	    - [Dict. (PT-BR)](https://github.com/leportella/datascience-pizza/blob/master/dicionario.md)
+	    * [Dict. (PT-BR)](https://github.com/leportella/datascience-pizza/blob/master/dicionario.md)
   * 6. Podcasts
-	    - [datascience.pizza (PT-BR)](http://podcast.datascience.pizza/)
-	    - [Data Skeptic (US)](https://dataskeptic.com/podcast)
+	    * [datascience.pizza (PT-BR)](http://podcast.datascience.pizza/)
+	    * [Data Skeptic (US)](https://dataskeptic.com/podcast)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
