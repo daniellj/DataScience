@@ -18,9 +18,9 @@ I created this repository for develop my skills with data science, and sharing e
 	    * [Python](https://github.com/daniellj/DataScience/tree/master/DataOrganizationAndDataVisualization/Python)
   * 4 - Machine Learning Models
 	    * Python
-	      * [SupervisedLearning](https://github.com/daniellj/DataScience/tree/master/MachineLearning/Python/SupervisedLearning)
-	      * [UnsupervisedLearning](https://github.com/daniellj/DataScience/tree/master/MachineLearning/Python/UnsupervisedLearning)
-        * [Reinforcement Learning](https://github.com/daniellj/DataScience/tree/master/MachineLearning/Python/ReinforcementLearning)
+	      * [SupervisedLearning](https://github.com/daniellj/DataScience/tree/master/MachineLearning/Python/SupervisedLearning)\n
+	      * [UnsupervisedLearning](https://github.com/daniellj/DataScience/tree/master/MachineLearning/Python/UnsupervisedLearning)\n
+        * [Reinforcement Learning](https://github.com/daniellj/DataScience/tree/master/MachineLearning/Python/ReinforcementLearning)\n
   * 5 - Data Science Terms Dictionary
 	    * [Dict. (PT-BR)](https://github.com/leportella/datascience-pizza/blob/master/dicionario.md)
   * 6 - Podcasts
