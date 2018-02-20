@@ -10,9 +10,9 @@
 		- Hadoop (HDFS)
 		- .CSV
 		- .TXT
-		- Document-oriented database (MongoDB)
+		- Document-Oriented Database (MongoDB)
 		- Wide Column Store (Cassandra)
-		- key-value databases (DynamoDB)
+		- Key-Value Databases (DynamoDB)
 		- ...
 3. Data Exploration
 	* - Data Understanding
