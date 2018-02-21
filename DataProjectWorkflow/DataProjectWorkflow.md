@@ -1,9 +1,6 @@
-# Data Project
+## 1. Data Project Workflow
 
-## Workflow CRISP-DM (Cross Industry Standard Process for Data Mining)
-![img](https://github.com/daniellj/DataScience/blob/master/DataProjectWorkflow/img/CRISP-DM_Process_Diagram.png)
-
-## Workflow KDD (Knowledge Discovery in Databases)
+### 1.1. KDD (Knowledge Discovery in Databases)
 ![img](https://github.com/daniellj/DataScience/blob/master/DataProjectWorkflow/img/KDD_Process_Diagram.png)
 
 - Some algorithms supported on data minning phase for KDD:
@@ -12,10 +9,13 @@
 	- Clustering
 	- Associations
 
-### Data Science orientation topics based on CRISP-DM:
-- **1. Objective**
+### 1.2. CRISP-DM (Cross Industry Standard Process for Data Mining)
+![img](https://github.com/daniellj/DataScience/blob/master/DataProjectWorkflow/img/CRISP-DM_Process_Diagram.png)
+
+### 1.2.1. Data Science orientation topics based on CRISP-DM:
+- **1.2.1.1. Objective**
 	- What is the problem you are trying to solve?
-- **2. Importing Data**
+- **1.2.1.2. Importing Data**
 	- Data sources: 
 		- Hadoop (HDFS)
 		- .CSV
@@ -24,12 +24,12 @@
 		- Wide Column Store (Cassandra)
 		- Key-Value Databases (DynamoDB)
 		- ...
-- **3. Data Exploration**
+- **1.2.1.3. Data Exploration**
 	- Data Understanding
 		- Exploration some data observations
 		- Descritive Data Summarization (mean, moda, median, std - standard deviation, min, max, balanced data classes, ...)
 		- Graphic Representation (density, frequency, correlation, ...)
-- **4. Data Preparation**
+- **1.2.1.4. Data Preparation**
 	- Data Cleaning: detection, removal and adjustment of anomalies contained in the data.
 		- Outliers
 		- Nan (NULL): missing values
@@ -46,20 +46,20 @@
 		- Validation of how the features work with your model
 		- Improvement of features if needed
 		- Return to brainstorming / creation of more features until the work is done
-- **5. Baseline Modeling**: contruction "N" models, using Pipeline (automating transformation and prediction tasks), and avaliate.
-- **6. Secundary Modeling**: tunning the models.
+- **1.2.1.5. Baseline Modeling**: contruction "N" models, using Pipeline (automating transformation and prediction tasks), and avaliate.
+- **1.2.1.6. Secundary Modeling**: tunning the models.
 	- Parameter estimation: in Python, using grid search with cross validation.
 	- Ensemble modeling:
 		- Bagging
 		- Boosting
 		- Stacking
 		- Voting
-- **7. Communicating Results**
+- **1.2.1.7. Communicating Results**
 	- Storytelling: art of communicate research result with data.
-- **8. Conclusion**
-- **9. Resources**
+- **1.2.1.8. Conclusion**
+- **1.2.1.9. Resources**
 
-### Credits:
+## 2. Credits:
 
 - [KDD article (EN-US)](http://recommender-systems.readthedocs.io/en/latest/datamining.html)
 
