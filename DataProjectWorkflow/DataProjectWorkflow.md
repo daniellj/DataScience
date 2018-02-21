@@ -12,7 +12,7 @@
 	- Clustering
 	- Associations
 
----> **Data Science orientation topics** <---:
+--->>> **Data Science orientation topics** <<<---
 - **1. Objective**
 	- What is the problem you are trying to solve?
 - **2. Importing Data**
