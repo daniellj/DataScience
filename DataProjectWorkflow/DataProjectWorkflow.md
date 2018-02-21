@@ -5,15 +5,12 @@
 
 ## Workflow KDD (Knowledge Discovery in Databases)
 ![img](https://github.com/daniellj/DataScience/blob/master/DataProjectWorkflow/img/KDD_Process_Diagram.png)
-	- Some algorithms supported on data minning phase for KDD:
 
-		- Classification
-		
-		- Regression
-		
-		- Clustering
-		
-		- Associations
+- Some algorithms supported on data minning phase for KDD:
+	- Classification
+	- Regression
+	- Clustering
+	- Associations
 
 Data Science orientation topics:
 - **1. Objective**
