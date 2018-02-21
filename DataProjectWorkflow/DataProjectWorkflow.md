@@ -12,7 +12,7 @@
 ### 1.2. CRISP-DM (Cross Industry Standard Process for Data Mining)
 ![img](https://github.com/daniellj/DataScience/blob/master/DataProjectWorkflow/img/CRISP-DM_Process_Diagram.png)
 
-### 1.2.1. Data Science orientation topics based on CRISP-DM:
+### 1.2.1. Workflow orientation topics based on CRISP-DM:
 - **1.2.1.1. Objective**
 	- What is the problem you are trying to solve?
 - **1.2.1.2. Importing Data**
