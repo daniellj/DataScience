@@ -6,9 +6,13 @@
 ## Workflow KDD (Knowledge Discovery in Databases)
 ![img](https://github.com/daniellj/DataScience/blob/master/DataProjectWorkflow/img/KDD_Process_Diagram.png)
 	- Some algorithms supported on data minning phase for KDD:
+
 		- Classification
+		
 		- Regression
+		
 		- Clustering
+		
 		- Associations
 
 Data Science orientation topics:
@@ -58,10 +62,10 @@ Data Science orientation topics:
 - **8. Conclusion**
 - **9. Resources**
 
-[**Some steps for develop a data project (EN-US)**](https://github.com/aakashtandel/misc_projects/blob/master/Data%20Science%20Workflow%20Project/Data%20Science%20Workflow.pdf)
+- [**Some steps for develop a data project (EN-US)**](https://github.com/aakashtandel/misc_projects/blob/master/Data%20Science%20Workflow%20Project/Data%20Science%20Workflow.pdf)
 
-[**Article about CRISP-DM (PT-BR)**](http://www.bigdatabusiness.com.br/se-voce-se-interessa-por-big-data-precisa-entender-o-crisp-dm/)
+- [**Article about CRISP-DM (PT-BR)**](http://www.bigdatabusiness.com.br/se-voce-se-interessa-por-big-data-precisa-entender-o-crisp-dm/)
 
-Other Credits:
+**Other Credits**:
 
 http://recommender-systems.readthedocs.io/en/latest/datamining.html
