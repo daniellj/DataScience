@@ -59,10 +59,10 @@
 - **8. Conclusion**
 - **9. Resources**
 
-- [**Some steps for develop a data project (EN-US)**](https://github.com/aakashtandel/misc_projects/blob/master/Data%20Science%20Workflow%20Project/Data%20Science%20Workflow.pdf)
+### Credits:
 
-- [**Article about CRISP-DM (PT-BR)**](http://www.bigdatabusiness.com.br/se-voce-se-interessa-por-big-data-precisa-entender-o-crisp-dm/)
+- [KDD article (EN-US)](http://recommender-systems.readthedocs.io/en/latest/datamining.html)
 
-**Other Credits**:
+- [CRISP-DM article (PT-BR)](http://www.bigdatabusiness.com.br/se-voce-se-interessa-por-big-data-precisa-entender-o-crisp-dm/)
 
-http://recommender-systems.readthedocs.io/en/latest/datamining.html
+- [Some steps for develop a data project (EN-US)](https://github.com/aakashtandel/misc_projects/blob/master/Data%20Science%20Workflow%20Project/Data%20Science%20Workflow.pdf)
