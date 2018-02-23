@@ -9,7 +9,7 @@ I created this repository for develop my skills with data science, and sharing e
 ## Topics
 
 <!-- toc -->
-- **1. DKIW**
+- **1. DKIW (Data - Knowledge - Information - Wisdom)**
 	- 1.1. [Data, Knowledge, Information, Wisdom](https://github.com/daniellj/DataScience/blob/master/DataKnowledgeInformationWisdom/DataKnowledgeInformationWisdom.md)
 - **2. Data Project**
 	- 2.1. [Workflow](https://github.com/daniellj/DataScience/blob/master/DataProjectWorkflow/DataProjectWorkflow.md)
