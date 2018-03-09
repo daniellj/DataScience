@@ -66,5 +66,3 @@
 - [CRISP-DM article (PT-BR)](http://www.bigdatabusiness.com.br/se-voce-se-interessa-por-big-data-precisa-entender-o-crisp-dm/)
 
 - [Some steps for develop a data project (EN-US)](https://github.com/aakashtandel/misc_projects/blob/master/Data%20Science%20Workflow%20Project/Data%20Science%20Workflow.pdf)
-
-- [5 Quick and Easy Data Visualizations in Python with Code](https://towardsdatascience.com/5-quick-and-easy-data-visualizations-in-python-with-code-a2284bae952f)
