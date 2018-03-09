@@ -28,7 +28,7 @@
 	- Data Understanding
 		- Exploration some data observations
 		- Descritive Data Summarization (mean, moda, median, std - standard deviation, min, max, balanced data classes, ...)
-		- [Graphic Representation (density, frequency, correlation, ...)](https://github.com/daniellj/DataScience/blob/master/DataOrganizationAndDataVisualization/Python/Images/DataVisualizationGuide.jpeg)
+		- [Graphic Representation (density, frequency, correlation, ...)](https://github.com/daniellj/DataScience/blob/master/DataOrganizationAndDataVisualization/DataOrganizationAndDataVisualization.md)
 - **1.2.1.4. Data Preparation**
 	- Data Cleaning: detection, removal and adjustment of anomalies contained in the data.
 		- Outliers
