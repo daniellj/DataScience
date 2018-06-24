@@ -25,6 +25,8 @@ I created this repository for develop my skills with data science, and sharing e
 		- 6.1.1 [SupervisedLearning](https://github.com/daniellj/DataScience/tree/master/MachineLearning/Python/SupervisedLearning)
 		- 6.1.2 [UnsupervisedLearning](https://github.com/daniellj/DataScience/tree/master/MachineLearning/Python/UnsupervisedLearning)
 		- 6.1.3 [Reinforcement Learning](https://github.com/daniellj/DataScience/tree/master/MachineLearning/Python/ReinforcementLearning)
+	- 6.2. R
+		- 6.2.1 [SupervisedLearning](https://github.com/daniellj/DataScience/tree/master/MachineLearning/R/SupervisedLearning)
 - **7. Data Science Terms Dictionary**
 	- 7.1. [Dict. (PT-BR)](https://github.com/leportella/datascience-pizza/blob/master/dicionario.md)
 - **8. Podcasts**
