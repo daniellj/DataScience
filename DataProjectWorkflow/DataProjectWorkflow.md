@@ -37,7 +37,7 @@
 	- Data Wrangling (or Munging): transforming data into a format that makes it easier to work with.
 		- Data Partitioning (create training + validation + test data set, ...)
 		- Transformations (normalization, standardisation, scaling, binarizing, pivoting, ...)
-		- Data Replacement (cutting, splitting, merging, ...)
+		- Data Replacement (cutting, splitting, merging, [encoding categorical values](http://pbpython.com/categorical-encoding.html), ...)
 		- Weighting and Selection (attribute weighting, automatic optimization, ...)
 		- Attribute Generation (ID generation, ...)
 	- Feature Engineering: attributes selection to analyze.
@@ -66,3 +66,5 @@
 - [CRISP-DM article (PT-BR)](http://www.bigdatabusiness.com.br/se-voce-se-interessa-por-big-data-precisa-entender-o-crisp-dm/)
 
 - [Some steps for develop a data project (EN-US)](https://github.com/aakashtandel/misc_projects/blob/master/Data%20Science%20Workflow%20Project/Data%20Science%20Workflow.pdf)
+
+- [Guide to Encoding Categorical Values in Python](http://pbpython.com/categorical-encoding.html)
