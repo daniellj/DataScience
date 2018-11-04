@@ -25,6 +25,7 @@ I created this repository for develop my skills with data science, and sharing e
 		- 6.1.1 Supervised Learning
 			- [Classification - Credit Risk Detection](https://github.com/daniellj/DataScience/blob/master/MachineLearning/Python/SupervisedLearning/Case-DeteccaoFraudeAvaliacaoCredito.ipynb)
 			- [Classification - Predicting Employee Turnover](https://github.com/daniellj/DataScience/blob/master/MachineLearning/Python/SupervisedLearning/PredictingEmployeeTurnover.ipynb)
+			- [Machine Learning Process](https://github.com/daniellj/DataScience/blob/master/MachineLearning/Python/SupervisedLearning/MachineLearningProcess.ipynb)
 		- 6.1.2 Unsupervised Learning
 			- [Clustering - Employee Turnover](https://github.com/daniellj/DataScience/blob/master/MachineLearning/Python/UnsupervisedLearning/ClusteringEmployeeTurnover.ipynb)
 		- 6.1.3 Reinforcement Learning
