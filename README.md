@@ -22,8 +22,11 @@ I created this repository for develop my skills with data science, and sharing e
 	- 5.2. [Python](https://github.com/daniellj/DataScience/tree/master/DataOrganizationAndDataVisualization/Python)
 - **6. Machine Learning Models**
 	- 6.1. Python
-		- 6.1.1 [SupervisedLearning](https://github.com/daniellj/DataScience/tree/master/MachineLearning/Python/SupervisedLearning)
-		- 6.1.2 [UnsupervisedLearning](https://github.com/daniellj/DataScience/tree/master/MachineLearning/Python/UnsupervisedLearning)
+		- 6.1.1 SupervisedLearning
+			- [Classification - Credit Risk Detection](https://github.com/daniellj/DataScience/blob/master/MachineLearning/Python/SupervisedLearning/Case-DeteccaoFraudeAvaliacaoCredito.ipynb)
+			- [Classification - Predicting Employee Turnover](https://github.com/daniellj/DataScience/blob/master/MachineLearning/Python/SupervisedLearning/PredictingEmployeeTurnover.ipynb)
+		- 6.1.2 [UnsupervisedLearning]
+			- [Clustering - Employee Turnover](https://github.com/daniellj/DataScience/blob/master/MachineLearning/Python/UnsupervisedLearning/ClusteringEmployeeTurnover.ipynb)
 		- 6.1.3 [Reinforcement Learning](https://github.com/daniellj/DataScience/tree/master/MachineLearning/Python/ReinforcementLearning)
 	- 6.2. R
 		- 6.2.1 [SupervisedLearning](https://github.com/daniellj/DataScience/tree/master/MachineLearning/R/SupervisedLearning)
