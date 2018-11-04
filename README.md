@@ -22,14 +22,16 @@ I created this repository for develop my skills with data science, and sharing e
 	- 5.2. [Python](https://github.com/daniellj/DataScience/tree/master/DataOrganizationAndDataVisualization/Python)
 - **6. Machine Learning Models**
 	- 6.1. Python
-		- 6.1.1 SupervisedLearning
+		- 6.1.1 Supervised Learning
 			- [Classification - Credit Risk Detection](https://github.com/daniellj/DataScience/blob/master/MachineLearning/Python/SupervisedLearning/Case-DeteccaoFraudeAvaliacaoCredito.ipynb)
 			- [Classification - Predicting Employee Turnover](https://github.com/daniellj/DataScience/blob/master/MachineLearning/Python/SupervisedLearning/PredictingEmployeeTurnover.ipynb)
-		- 6.1.2 [UnsupervisedLearning]
+		- 6.1.2 Unsupervised Learning
 			- [Clustering - Employee Turnover](https://github.com/daniellj/DataScience/blob/master/MachineLearning/Python/UnsupervisedLearning/ClusteringEmployeeTurnover.ipynb)
-		- 6.1.3 [Reinforcement Learning](https://github.com/daniellj/DataScience/tree/master/MachineLearning/Python/ReinforcementLearning)
+		- 6.1.3 Reinforcement Learning
 	- 6.2. R
-		- 6.2.1 [SupervisedLearning](https://github.com/daniellj/DataScience/tree/master/MachineLearning/R/SupervisedLearning)
+		- 6.2.1 Supervised Learning
+			- [Classification - Income per capita of Brazilian Cities](https://github.com/daniellj/DataScience/blob/master/MachineLearning/R/SupervisedLearning/Estudo_RendaPerCaptaMunicipal-BR.R)
+				- [Report - Income per capita of Brazilian Cities](https://github.com/daniellj/DataScience/blob/master/MachineLearning/R/SupervisedLearning/Estudo_RendaPerCaptaMunicipal-BR.pdf)
 - **7. Data Science Terms Dictionary**
 	- 7.1. [Dict. (PT-BR)](https://github.com/leportella/datascience-pizza/blob/master/dicionario.md)
 - **8. Podcasts**
