@@ -28,6 +28,7 @@ I created this repository for develop my skills with data science, and sharing e
 			- [Machine Learning Process](https://github.com/daniellj/DataScience/blob/master/MachineLearning/Python/SupervisedLearning/MachineLearningProcess.ipynb)
 		- 6.1.2 Unsupervised Learning
 			- [Clustering - Employee Turnover](https://github.com/daniellj/DataScience/blob/master/MachineLearning/Python/UnsupervisedLearning/ClusteringEmployeeTurnover.ipynb)
+				- [Report - Clustering - Employee Turnover](https://github.com/daniellj/DataScience/blob/master/MachineLearning/Python/UnsupervisedLearning/Report-Clustering-EmployeeTurnover.pdf)
 		- 6.1.3 Reinforcement Learning
 	- 6.2. R
 		- 6.2.1 Supervised Learning
