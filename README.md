@@ -29,7 +29,9 @@ I created this repository for develop my skills with data science, and sharing e
 		- 6.1.2 Unsupervised Learning
 			- [Clustering - Employee Turnover](https://github.com/daniellj/DataScience/blob/master/MachineLearning/Python/UnsupervisedLearning/ClusteringEmployeeTurnover.ipynb)
 				- [Report - Clustering - Employee Turnover](https://github.com/daniellj/DataScience/blob/master/MachineLearning/Python/UnsupervisedLearning/Report-Clustering-EmployeeTurnover.pdf)
-		- 6.1.3 Reinforcement Learning
+		- 6.1.3 Association Rules
+			- [Recommendation System With Market Basket](https://github.com/daniellj/DataScience/blob/master/MachineLearning/Python/RecommendationSystem/RecommendationSystemWithMarketBasket.ipynb)
+		- 6.1.4 Reinforcement Learning
 	- 6.2. R
 		- 6.2.1 Supervised Learning
 			- [Classification - Income per capita of Brazilian Cities](https://github.com/daniellj/DataScience/blob/master/MachineLearning/R/SupervisedLearning/Estudo_RendaPerCaptaMunicipal-BR.R)
