@@ -34,7 +34,7 @@ I created this repository for develop my skills with data science, and sharing e
 		- 6.1.4 Reinforcement Learning
 	- 6.2. R
 		- 6.2.1 Supervised Learning
-			- [Classification - Income per capita of Brazilian Cities](https://github.com/daniellj/DataScience/blob/master/MachineLearning/R/SupervisedLearning/Estudo_RendaPerCaptaMunicipal-BR.R)
+			- [Multiple Linear Regression - Income per capita of Brazilian Cities](https://github.com/daniellj/DataScience/blob/master/MachineLearning/R/SupervisedLearning/Estudo_RendaPerCaptaMunicipal-BR.R)
 				- [Report - Income per capita of Brazilian Cities](https://github.com/daniellj/DataScience/blob/master/MachineLearning/R/SupervisedLearning/Estudo_RendaPerCaptaMunicipal-BR.pdf)
 - **7. Data Science Terms Dictionary**
 	- 7.1. [Dict. (PT-BR)](https://github.com/leportella/datascience-pizza/blob/master/dicionario.md)
