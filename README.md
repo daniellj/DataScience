@@ -30,7 +30,7 @@ I created this repository for develop my skills with data science, and sharing e
 			- [Clustering - Employee Turnover](https://github.com/daniellj/DataScience/blob/master/MachineLearning/Python/UnsupervisedLearning/ClusteringEmployeeTurnover.ipynb)
 				- [Report - Clustering - Employee Turnover](https://github.com/daniellj/DataScience/blob/master/MachineLearning/Python/UnsupervisedLearning/Report-Clustering-EmployeeTurnover.pdf)
 		- 6.1.3 Association Rules
-			- [Recommendation System With Market Basket](https://github.com/daniellj/DataScience/blob/master/MachineLearning/Python/RecommendationSystem/RecommendationSystemWithMarketBasket.ipynb)
+			- [Product Recommendation System With Market Basket](https://github.com/daniellj/DataScience/blob/master/MachineLearning/Python/RecommendationSystem/ProductRecommendationSystemWithMarketBasket.ipynb)
 		- 6.1.4 Reinforcement Learning
 	- 6.2. R
 		- 6.2.1 Supervised Learning
